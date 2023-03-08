@@ -4,8 +4,8 @@
 
 
 
-const char* ssid = "HUAWEI";
-const char* password = "bigtits69";
+const char* ssid = "Albert";
+const char* password = "state123";
 
 
 void setup() {
@@ -32,3 +32,4 @@ void loop() {
   Serial.print(keypad.getKey());
   delay(250);
 }
+
